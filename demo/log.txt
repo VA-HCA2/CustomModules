@@ -10,3 +10,7 @@ info [Mon Sep 09 2019 15:09:56 GMT-0400 (Eastern Daylight Time)]  App accessed b
 info [Mon Sep 09 2019 15:10:30 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - Mountain not created: Duplicate mountain (Mt. Washington) found.
 
 info [Mon Sep 09 2019 15:11:45 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Success - Mt. Adams, 5,799.
+
+info [Mon Sep 09 2019 15:58:29 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - Missing Mountain Data param(s).
+
+info [Mon Sep 09 2019 16:01:01 GMT-0400 (Eastern Daylight Time)]  App accessed by Training: Failure - Command (list) not able to be processed.

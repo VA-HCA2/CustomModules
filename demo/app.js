@@ -21,7 +21,9 @@ var user = os.userInfo();
 
 // Get User input
 var command = process.argv[2];
+console.log(process.argv);
 var args = yargs.argv;
+console.log(yargs.argv);
 var mountainName = args.name;
 var mountainElevation = args.elev;
 
